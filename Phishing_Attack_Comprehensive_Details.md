@@ -293,6 +293,30 @@ Effective defenses:
 10. Tracking pixel analysis.
 11. Prevention techniques.
 
+
+
+
+## 8. Phishing Practice Labs
+
+These labs provide hands-on practice for phishing analysis, detection, and prevention. They are useful for reinforcing the concepts covered in this document.
+
+### 8.1 Phishing Email in Action
+**Room:** [Phishing Emails in Action](https://tryhackme.com/room/phishingemails2rytmuv)
+
+### 8.2 Phishing Analysis Tools
+**Room:** [Phishing Analysis Tools](https://tryhackme.com/room/phishingemails3tryoe)
+
+### 8.3 Phishing Prevention
+**Room:** [Phishing Prevention](https://tryhackme.com/room/phishingemails4gkxh)
+
+### 8.4 The Greenholt Phish
+**Room:** [The Greenholt Phish](https://tryhackme.com/room/phishingemails5fgjlzxc)
+
+### 8.5 Snapped Phish-ing Line
+**Room:** [Snapped Phish-ing Line](https://tryhackme.com/room/snappedphishingline)
+
+
+
 ---
 
 ## 7. Investigator Notes
