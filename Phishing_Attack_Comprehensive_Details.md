@@ -322,3 +322,28 @@ These labs provide hands-on practice for phishing analysis, detection, and preve
 ## 7. Investigator Notes
 
 A strong phishing investigation does not rely on one indicator alone. The best results come from combining header evidence, sender-domain checks, content analysis, and attachment or link inspection.
+
+
+
+
+
+## Core Social Engineering Techniques
+
+Urgency     ----- Stop thinking
+Legitimacy  ----- feels like a real system
+Impersonation  ----  identity-focused.
+Trust Exploitation    - Reduce Suspicion
+Fear Tactics          -- Triger panic
+Curiosity / Clickbait  - Trigger action
+
+----------------------------------------
+## common mails
+
+outlook.com,
+yahoo mail
+microsoft 365
+Apple iCloud Mail
+Proton mail
+
+
+
