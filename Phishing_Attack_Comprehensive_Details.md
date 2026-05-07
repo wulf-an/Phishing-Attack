@@ -327,23 +327,24 @@ A strong phishing investigation does not rely on one indicator alone. The best r
 
 
 
-## Core Social Engineering Techniques
+# Core Social Engineering Techniques
 
-Urgency     ----- Stop thinking
-Legitimacy  ----- feels like a real system
-Impersonation  ----  identity-focused.
-Trust Exploitation    - Reduce Suspicion
-Fear Tactics          -- Triger panic
-Curiosity / Clickbait  - Trigger action
+| Technique | Purpose |
+|------------|------------|
+| Urgency | Stop thinking |
+| Legitimacy | Feels like a real system |
+| Impersonation | Identity-focused |
+| Trust Exploitation | Reduce suspicion |
+| Fear Tactics | Trigger panic |
+| Curiosity / Clickbait | Trigger action |
 
-----------------------------------------
-## common mails
+---
 
-outlook.com,
-yahoo mail
-microsoft 365
-Apple iCloud Mail
-Proton mail
+# Common Email Services
 
-
+- Outlook.com
+- Yahoo Mail
+- Microsoft 365
+- Apple iCloud Mail
+- Proton Mail
 
